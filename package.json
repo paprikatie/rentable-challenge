@@ -18,7 +18,6 @@
   "homepage": "https://github.com/paprikatie/rentable-challenge#readme",
   "dependencies": {
     "axios": "^0.24.0",
-    "bluebird": "^3.7.2",
     "express": "^4.17.1",
     "mongoose": "^6.0.13",
     "nodemon": "^2.0.15",
